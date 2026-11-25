@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2560" viewBox="0 0 1600 2560" role="img" aria-label="The First 90 Days at a New Job — cover">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e241b"/><stop offset="1" stop-color="#173b2c"/></linearGradient></defs>
+  <rect width="1600" height="2560" fill="url(#bg)"/>
+  <rect x="90" y="90" width="1420" height="2380" fill="none" stroke="#d8a94e" stroke-width="3" opacity="0.55"/>
+  <rect x="90" y="150" width="220" height="10" fill="#d8a94e"/>
+  <text x="150" y="420" font-family="Arial, Helvetica, sans-serif" font-size="34" letter-spacing="10" fill="#d8a94e">GRECH PRESS · PRACTICAL GUIDE</text>
+  <text x="150" y="1040" font-family="Georgia, 'Times New Roman', serif" font-size="140" font-weight="700" fill="#f4efe3">The First 90</text>
+  <text x="150" y="1200" font-family="Georgia, 'Times New Roman', serif" font-size="140" font-weight="700" fill="#f4efe3">Days at a New</text>
+  <text x="150" y="1360" font-family="Georgia, 'Times New Roman', serif" font-size="140" font-weight="700" fill="#f4efe3">Job</text>
+  <rect x="150" y="1480" width="120" height="5" fill="#d8a94e"/>
+  <text x="150" y="1580" font-family="Arial, Helvetica, sans-serif" font-size="52" fill="#b9c7bd">Week one, culture, small wins, upward</text>
+  <text x="150" y="1660" font-family="Arial, Helvetica, sans-serif" font-size="52" fill="#b9c7bd">management, and the 90-day review</text>
+  <text x="150" y="2260" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="600" fill="#f4efe3">Mark Grech</text>
+  <text x="150" y="2340" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#b9c7bd">Grech Press · Zürich</text>
+  <text x="1450" y="2340" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#b9c7bd" text-anchor="end">$12.99</text>
+</svg>
